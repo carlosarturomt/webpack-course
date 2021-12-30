@@ -305,12 +305,12 @@ body {
 }
 
 .card_social {
-	width: 400px;
+	/* width: 400px; */
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	margin: 0 auto;
-	padding: 1em 0;
+	padding: 1em;
 }
 .card_social img {
 	width: 32px;
